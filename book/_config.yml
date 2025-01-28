@@ -9,7 +9,7 @@ only_build_toc_files: true
 
 html:
   favicon : "figures/favicon.ico"
-  baseurl :  "https://teachbooks.github.io/Macaulays_method/" #Replace this with your own URL
+  baseurl :  "https://oit.tudelft.nl/Macaulays-method/" #Replace this with your own URL
   home_page_in_navbar       : false
 
 sphinx:
@@ -21,7 +21,7 @@ sphinx:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
-      repository_url: "https://github.com/TeachBooks/Macaulays_method"
+      repository_url: "https://github.com/TUDelft-books/Macaulays-method"
       path_to_docs: "book"
       repository_branch: "main"
       use_repository_button: true
