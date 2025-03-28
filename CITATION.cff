@@ -15,7 +15,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-9536-061X'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.15099577
+    value: 10.5281/zenodo.15099635
     description: Zenodo record
 repository-code: 'https://github.com/TUDelft-books/Macaulays-method'
 url: 'http://oit.tudelft.nl/Macaulays-method/'
@@ -27,6 +27,6 @@ keywords:
   - Macaulay's method
   - Mechanics
 license: CC-BY-4.0
-commit: b706c82
-version: v1.0.0
+commit: d1ece3f
+version: v1.0.1
 date-released: '2025-03-28'
