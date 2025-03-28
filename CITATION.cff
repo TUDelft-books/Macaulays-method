@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Extension to Macaulay’s method @ TU Delft
+message: >-
+  If you use this open interactive textbooks,
+  please cite it using the  metadata from this file.
+type: open interactive textbook
+authors:
+  - given-names: Tom
+    family-names: van Woudenberg
+    email: t.r.van.woudenberg@tudelft.nl
+    affiliation: Delft University of Technology
+    orcid: 'https://orcid.org/0000-0002-9536-061X'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15099577
+    description: Zenodo record
+repository-code: 'https://github.com/TUDelft-books/Macaulays-method'
+url: 'http://oit.tudelft.nl/Macaulays-method/'
+abstract: >-
+  This book shows the extensions made to Macaulay’s method
+  at Delft University of Technology, Civil Engineering by
+  various students.
+keywords:
+  - Macaulay's method
+  - Mechanics
+license: CC-BY-4.0
+commit: b706c82
+version: v1.0.0
+date-released: '2025-03-28'
