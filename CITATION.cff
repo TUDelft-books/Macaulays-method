@@ -53,7 +53,7 @@ preferred-citation:
     institution:
       name: "Delft University of Technology"
   license: CC-BY-4.0
-  license-url: https://creativecommons.org/licenses/by/4.0/"
+  license-url: "https://creativecommons.org/licenses/by/4.0/"
   version: v1.0.1
   date-released: '2025-03-28'
   copyright: "© 2025 Tom van Woudenberg from Delft University of Technology"
