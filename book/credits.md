@@ -3,17 +3,15 @@
 
 You can refer to this book as:
 
-> Van Woudenberg, Tom (2024) _Extension Macaulay's method_. [https://github.com/TeachBooks/Macaulays_method](https://github.com/TeachBooks/Macaulays_method)
+> van Woudenberg, T., van der Wulp, J., Jankie, J., Qadriyeh, E., Alex, B., van Mark, G., & Borek, S. (2025). Extension to Macaulay’s method @ TU Delft. GitHub/Zenodo. https://doi.org/10.5281/zenodo.15099577
 
 The introduction, structure of the book and formatting of contents is done by the Editors.
 
 You can refer to individual chapters or pages within this book as:
 
-> `<Title of Chapter or Page>` (2024). In Van Woudenberg, Tom, _Extension Macaulay's method_. [https://github.com/TeachBooks/Macaulays_method](https://github.com/TeachBooks/Macaulays_method)
+> `<Title of Chapter or Page>` (2024). In van Woudenberg, T., van der Wulp, J., Jankie, J., Qadriyeh, E., Alex, B., van Mark, G., & Borek, S. (2025). Extension to Macaulay’s method @ TU Delft. GitHub/Zenodo. https://doi.org/10.5281/zenodo.15099577
 
-We anticipate that the content of this book will change significantly. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location within the book. For example:
-
-> `<Title of Chapter or Page>`. In Van Woudenberg, Tom, _Extension Macaulay's method_. [https://github.com/TeachBooks/Macaulays_method](https://github.com/TeachBooks/Macaulays_method) (`./book/intro/` chapter, accessed `date`).
+We anticipate that the content of this book will change significantly. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location within the book.
 
 This book is [CC BY licensed](https://creativecommons.org/licenses/by/4.0/), meaning you are free to share and adapt the material, as long as you give appropriate credit, provide a link to the license and indicate if changes were made.
 
@@ -45,10 +43,6 @@ Next to courses on structural mechanics, Tom (co)teaches courses on optimisation
 - <i class="fa-brands fa-github"></i> [GitHub profile ](https://github.com/Tom-van-Woudenberg)
 - <i class="fa-brands fa-linkedin"></i> [LinkedIn profile](https://www.linkedin.com/in/tom-van-woudenberg/)
 - {fa}`building-columns` [Delft University of Technology profile](https://www.tudelft.nl/en/staff/t.r.vanwoudenberg/)
-
-### Bart Slingerland
-
-Bart Slingerland is a teaching assistant, who has partly written the content in this book.
 
 ### Acknowledgements
 Big thanks to the various colleagues (with Robert Lanzafame in particular) and teaching assistant part of the [TeachBooks](https://teachbooks.io/) for developing tools and providing support to improve this book.
