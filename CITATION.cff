@@ -13,6 +13,24 @@ authors:
     email: t.r.van.woudenberg@tudelft.nl
     affiliation: Delft University of Technology
     orcid: 'https://orcid.org/0000-0002-9536-061X'
+  - given-names: Justus
+    family-names: van der Wulp
+    affiliation: Delft University of Technology
+  - given-names: Julia
+    family-names: Jankie
+    affiliation: Delft University of Technology
+  - given-names: Ezzat
+    family-names: Qadriyeh
+    affiliation: Delft University of Technology
+  - given-names: Baudoin
+    family-names: Alex
+    affiliation: Delft University of Technology
+  - given-names: van Gelder
+    family-names: Mark
+    affiliation: Delft University of Technology
+  - given-names: Saheli
+    family-names: Borek
+    affiliation: Delft University of Technology
 identifiers:
   - type: doi
     value: 10.5281/zenodo.15099635
@@ -32,3 +50,7 @@ license: CC-BY-4.0
 commit: d1ece3f1e2c482b1e40a4a45ac1e761bdb6cf984
 version: v1.0.1
 date-released: '2025-03-28'
+contact:
+  - email: "T.R.vanWoudenberg@tudelft.nl"
+    given-names: Tom
+    family-names: van Woudenberg
