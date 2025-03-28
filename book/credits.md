@@ -3,15 +3,15 @@
 
 You can refer to this book as:
 
-> van Woudenberg, T., van der Wulp, J., Jankie, J., Qadriyeh, E., Alex, B., van Mark, G., & Borek, S. (2025). Extension to Macaulay’s method @ TU Delft. GitHub/Zenodo. https://doi.org/10.5281/zenodo.15099577
+> van Woudenberg, T., van der Wulp, J., Jankie, J., Qadriyeh, E., Baudoin, A., van Gelder, M., & Saheli, B. (2025) _Extension Macaulay's method_. [https://github.com/TeachBooks/Macaulays_method](https://github.com/TeachBooks/Macaulays_method)
 
-The introduction, structure of the book and formatting of contents is done by the Editors.
+This book is also published on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15099577.svg)](https://doi.org/10.5281/zenodo.15099577)
 
 You can refer to individual chapters or pages within this book as:
 
-> `<Title of Chapter or Page>` (2025). In van Woudenberg, T., van der Wulp, J., Jankie, J., Qadriyeh, E., Alex, B., van Mark, G., & Borek, S. (2025). Extension to Macaulay’s method @ TU Delft. GitHub/Zenodo. https://doi.org/10.5281/zenodo.15099577
+We anticipate that the content of this book will change significantly. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location within the book. For example:
 
-We anticipate that the content of this book will change significantly. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location within the book.
+> `<Title of Chapter or Page>`. In van Woudenberg, T., van der Wulp, J., Jankie, J., Qadriyeh, E., Baudoin, A., van Gelder, M., & Saheli, B. (2025) _Extension Macaulay's method_. [https://github.com/TeachBooks/Macaulays_method](https://github.com/TeachBooks/Macaulays_method) (`./book/intro/` chapter, accessed `date`).
 
 This book is [CC BY licensed](https://creativecommons.org/licenses/by/4.0/), meaning you are free to share and adapt the material, as long as you give appropriate credit, provide a link to the license and indicate if changes were made.
 
