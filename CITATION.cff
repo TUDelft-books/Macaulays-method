@@ -59,3 +59,36 @@ contact:
     given-names: Tom
     name-particle: van
     family-names: vWoudenberg
+preferred-citation:
+  type: book
+  authors:
+  - given-names: Tom
+    name-particle: van
+    family-names: Woudenberg
+    email: t.r.van.woudenberg@tudelft.nl
+    affiliation: Delft University of Technology
+    orcid: 'https://orcid.org/0000-0002-9536-061X'
+  - given-names: Justus
+    name-particle: van der
+    family-names: Wulp
+    affiliation: Delft University of Technology
+  - given-names: Julia
+    family-names: Jankie
+    affiliation: Delft University of Technology
+  - given-names: Ezzat
+    family-names: Qadriyeh
+    affiliation: Delft University of Technology
+  - given-names: Alex
+    family-names: Baudoin
+    affiliation: Delft University of Technology
+  - given-names: Mark
+    name-particle: van
+    family-names: Gelder
+    affiliation: Delft University of Technology
+  - given-names: Borek
+    family-names: Saheli
+    affiliation: Delft University of Technology
+  doi: "10.5281/zenodo.15099635"
+  title: "Extension to Macaulay’s method @ TU Delft"
+  issue: v1.0.1
+  date-released: '2025-03-28'
