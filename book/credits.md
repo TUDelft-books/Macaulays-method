@@ -9,7 +9,7 @@ The introduction, structure of the book and formatting of contents is done by th
 
 You can refer to individual chapters or pages within this book as:
 
-> `<Title of Chapter or Page>` (2024). In van Woudenberg, T., van der Wulp, J., Jankie, J., Qadriyeh, E., Alex, B., van Mark, G., & Borek, S. (2025). Extension to Macaulay’s method @ TU Delft. GitHub/Zenodo. https://doi.org/10.5281/zenodo.15099577
+> `<Title of Chapter or Page>` (2025). In van Woudenberg, T., van der Wulp, J., Jankie, J., Qadriyeh, E., Alex, B., van Mark, G., & Borek, S. (2025). Extension to Macaulay’s method @ TU Delft. GitHub/Zenodo. https://doi.org/10.5281/zenodo.15099577
 
 We anticipate that the content of this book will change significantly. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location within the book.
 
