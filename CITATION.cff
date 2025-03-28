@@ -49,18 +49,18 @@ preferred-citation:
   keywords:
     - Macaulay's method
     - Mechanics
-  title: "Extension to Macaulay’s method @ TU Delft"
-    institution:
-      name: "Delft University of Technology"
+  title: 'Extension to Macaulay’s method @ TU Delft'
+  institution:
+    name: 'Delft University of Technology'
   license: CC-BY-4.0
-  license-url: "https://creativecommons.org/licenses/by/4.0/"
+  license-url: 'https://creativecommons.org/licenses/by/4.0/'
   version: v1.0.1
   date-released: '2025-03-28'
-  copyright: "© 2025 Tom van Woudenberg from Delft University of Technology"
+  copyright: '© 2025 Tom van Woudenberg from Delft University of Technology'
   languages:
     - en
   contact:
-  - email: "T.R.vanWoudenberg@tudelft.nl"
+  - email: 'T.R.vanWoudenberg@tudelft.nl'
     given-names: Tom
     name-particle: van
     family-names: Woudenberg
