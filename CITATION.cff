@@ -31,15 +31,17 @@ preferred-citation:
   - given-names: Borek
     family-names: Saheli
     affiliation: Delft University of Technology
-  url: https://doi.org/10.5281/zenodo.15099635
+  url: 'https://doi.org/10.5281/zenodo.15099635'
   identifiers:
     - type: doi
       value: 10.5281/zenodo.15099635
       description: Zenodo record
     - type: url
       value: 'http://oit.tudelft.nl/Macaulays-method/'
-      description: published book
-  repository-code: 'https://github.com/TUDelft-books/Macaulays-method'
+      description: Published book on GitHub Pages
+    - type: url
+      value: 'https://github.com/TUDelft-books/Macaulays-method'
+      description: GitHub repository
   abstract: >-
     This book shows the extensions made to Macaulay’s method
     at Delft University of Technology, Civil Engineering by
@@ -48,13 +50,17 @@ preferred-citation:
     - Macaulay's method
     - Mechanics
   title: "Extension to Macaulay’s method @ TU Delft"
-  institution: 'Delft University of Technology'
+    institution:
+      name: "Delft University of Technology"
   license: CC-BY-4.0
   license-url: https://creativecommons.org/licenses/by/4.0/"
   version: v1.0.1
   date-released: '2025-03-28'
+  copyright: "© 2025 Tom van Woudenberg from Delft University of Technology"
+  languages:
+    - en
   contact:
   - email: "T.R.vanWoudenberg@tudelft.nl"
     given-names: Tom
     name-particle: van
-    family-names: vWoudenberg
+    family-names: Woudenberg
