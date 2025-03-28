@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-message: 'If you use this Book, please cite it using these metadata.'
+message: 'If you use this open interactive textbook, please cite it using these metadata.'
 authors:
   - given-names: Tom
     name-particle: van
