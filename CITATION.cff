@@ -24,15 +24,15 @@ authors:
   - given-names: Ezzat
     family-names: Qadriyeh
     affiliation: Delft University of Technology
-  - given-names: Baudoin
-    family-names: Alex
+  - given-names: Alex
+    family-names: Baudoin
     affiliation: Delft University of Technology
-  - given-names: Gelder
+  - given-names: Mark
     name-particle: van
-    family-names: Mark
+    family-names: Gelder
     affiliation: Delft University of Technology
-  - given-names: Saheli
-    family-names: Borek
+  - given-names: Borek
+    family-names: Saheli
     affiliation: Delft University of Technology
 identifiers:
   - type: doi
@@ -59,13 +59,3 @@ contact:
     given-names: Tom
     name-particle: van
     family-names: vWoudenberg
-references:
-  - type: thesis
-    authors:
-      - family-names: Justusd
-        name-particle: van der
-        given-names: Wulp
-    title: "De methode van macaulay voor tweedimensionale constructies"
-    date-released: 2023
-    url: https://resolver.tudelft.nl/uuid:96ec934a-4520-465f-8079-01b9fad73360
-    repository-code: "https://github.com/jvanderWulp/De-methode-van-Macaulay-voor-tweedimensionale-constructies"
