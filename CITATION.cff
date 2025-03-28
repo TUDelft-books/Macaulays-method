@@ -32,10 +32,3 @@ license: CC-BY-4.0
 commit: d1ece3f1e2c482b1e40a4a45ac1e761bdb6cf984
 version: v1.0.1
 date-released: '2025-03-28'
-preferred-citation:
-  authors:
-    - family-names: van Woudenberg
-      given-names:Tom
-  title: Extension to Macaulay’s method @ TU Delft
-  type: generic
-  year: 2024
