@@ -1,5 +1,5 @@
 # first list the packages you wish to download from PyPI
-https://github.com/TeachBooks/TeachBooks.git@BSchilperoort:optional-sidebar-admon
+teacherbooks @ https://github.com/TeachBooks/TeachBooks@BSchilperoort:optional-sidebar-admon
 numpy
 sympy
 matplotlib
