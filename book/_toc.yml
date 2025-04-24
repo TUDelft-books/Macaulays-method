@@ -58,7 +58,7 @@ parts:
       - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_10.ipynb
       - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_11.ipynb
       - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_12.ipynb
-      - file: theses/Beam-examples/3pin_example.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/Beam-examples/blob/main/3pin_example.ipynb
     - file: theses/borek
       sections:
       - file: theses/examples_borek/borek_example_1.ipynb

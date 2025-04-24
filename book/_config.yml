@@ -32,6 +32,7 @@ sphinx:
     html_last_updated_fmt: '%B %-d, %Y'
     bibtex_default_style: myapastyle
     bibtex_reference_style: author_year_round
+    named_colors_custom_colors: {'attributiongrey':[150,150,150]}
   local_extensions:
     apastyle: _ext/
     bracket_citation_style: _ext/
@@ -40,6 +41,11 @@ sphinx:
     - jupyterbook_patches
     - sphinx_tudelft_theme
     - sphinx_image_inverter
+    - sphinx_named_colors
+
+teachbooks:
+  attribution_location: margin # (defaults to `top`)
+  attribution_color: attributiongrey
 
 bibtex_bibfiles: 
   - references.bib
