@@ -1,8 +1,5 @@
 # first list the packages you wish to download from PyPI
 git+https://github.com/BSchilperoort/TeachBooks.git@optional-sidebar-admon
-numpy
-sympy
-matplotlib
 sphinx-tudelft-theme
 jupyterbook_patches
 sphinx-image-inverter
