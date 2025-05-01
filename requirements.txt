@@ -1,5 +1,5 @@
 # first list the packages you wish to download from PyPI
-git+https://github.com/BSchilperoort/TeachBooks.git@optional-sidebar-admon #BUMP
+git+https://github.com/TeachBooks/TeachBooks.git@develop
 sphinx-tudelft-theme
 jupyterbook_patches
 sphinx-image-inverter
