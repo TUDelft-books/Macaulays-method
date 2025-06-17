@@ -1,4 +1,4 @@
-# Ezzat: Curved beams
+# Ezzat: Curved beams (in Dutch)
 
 > De methode van Macaulay is een methode die de mogelijkheid biedt om zowel de interne krachten als de vervormingen van construties te analyseren. De discontiue belastingen die op de constructie werken zijn in één vergelijking te beschrijven door gebruik van de singulariteitsfunctie te maken. Hierdoor kan de volledige constructiee op een gestructureerde manier worden gemodelleerd met slechts één differenti aalvergelijking.
 >

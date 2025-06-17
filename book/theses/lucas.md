@@ -1,3 +1,3 @@
-# Lucas: Implementation of Axial Force Analysis via Macaulay's Method Using Python 
+# Lucas: Axial Force Analysis in SymPy
 
 Work in progress

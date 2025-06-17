@@ -1,3 +1,3 @@
-# Luka: Macaulay’s methode met variabele stijfheden
+# Luka: Variabele stijfheden (in Dutch)
 
 Work in progress

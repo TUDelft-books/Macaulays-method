@@ -65,6 +65,8 @@ parts:
       - file: theses/examples_borek/borek_example_2.ipynb
       - file: theses/examples_borek/borek_example_3.ipynb
       - file: theses/examples_borek/borek_example_4.ipynb
+    - file: theses/luka
+    - file: theses/lucas
   - caption: Appendices
     chapters:
     - file: references.md
