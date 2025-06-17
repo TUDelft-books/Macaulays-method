@@ -22,4 +22,5 @@
 |     3D structures                               |  -              |   -                         |
 |     Develop GUI to use Macaulay's method        |  -              |   -                         |
 |     Varying stiffness of elements               | 23 June 2025: Completed by Luka | - |
+|     Free body diagram plotter in SymPy          | n.a.            | - |
 |     ... (all ideas are welcome)                 |   |   |
