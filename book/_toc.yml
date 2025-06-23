@@ -50,7 +50,7 @@ parts:
       - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_4.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_4.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_5.ipynb
-      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_5.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_6.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_6.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_7.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_8.ipynb
