@@ -66,6 +66,14 @@ parts:
       - file: theses/examples_borek/borek_example_3.ipynb
       - file: theses/examples_borek/borek_example_4.ipynb
     - file: theses/luka
+      sections:
+      - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb1.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb2.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb3.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb4.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb5.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb6.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb7.ipynb
     - file: theses/lucas
   - caption: Appendices
     chapters:
