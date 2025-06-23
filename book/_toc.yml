@@ -43,21 +43,21 @@ parts:
       - file: theses/Macaulay-2D/BEP v7.ipynb
     - file: theses/mark
       sections:
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_equations_1.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_1.ipynb
-      - file: theses/BEP_examples_SymPy_1.12/BEP_example_2.ipynb
-      - file: theses/BEP_examples_SymPy_1.12/BEP_example_3.ipynb
-      - file: theses/BEP_examples_SymPy_1.12/BEP_example_4.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_4.ipynb
-      - file: theses/BEP_examples_SymPy_1.12/BEP_example_5.ipynb
-      - file: theses/BEP_examples_SymPy_1.12/BEP_example_6.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_6.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_7.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_8.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_9.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_10.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_11.ipynb
-      - file: theses/BEP_examples_SymPy_1.14.dev/BEP_example_12.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_equations_1.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_1.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_2.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_3.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_4.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_4.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_5.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.12/blob/main/BEP_example_5.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_6.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_7.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_8.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_9.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_10.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_11.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP_examples_SymPy_1.14.dev/blob/main/BEP_example_12.ipynb
       - external: https://github.com/Tom-van-Woudenberg/Beam-examples/blob/main/3pin_example.ipynb
     - file: theses/borek
       sections:
@@ -76,7 +76,7 @@ parts:
       - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb7.ipynb
     - file: theses/lucas
       sections:
-      - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_1.ipynb #BUMP#BUMP
+      - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_1.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_2.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_3.ipynb
   - caption: Appendices
