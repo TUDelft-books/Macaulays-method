@@ -75,6 +75,10 @@ parts:
       - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb6.ipynb
       - external: https://github.com/Tom-van-Woudenberg/Methode-van-Macaulay-met-variabele-stijfheden/blob/main/Vb7.ipynb
     - file: theses/lucas
+      sections:
+      - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_1.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_2.ipynb
+      - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_3.ipynb
   - caption: Appendices
     chapters:
     - file: references.md
