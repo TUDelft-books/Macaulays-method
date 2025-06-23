@@ -1,4 +1,4 @@
-# Alex: Twodimensional structures
+# Alex: Twodimensional structures (in Dutch)
 
 > In dit rapport wordt uitgelegd hoe de Macaulay methode kan worden uitgebreid zodat het toepasbaar is op geknikte, vertakte en gesloten constructies, inclusief gescharnierde. Het model is robuust, systematisch toepasbaar, kan de snedekrachten en globale verplaatsingen op elk punt berekenen en de oplossingsvoorwaarden zijn eenvoudiger en geringer in aantal in vergelijking met de directe integratie methode.
 >

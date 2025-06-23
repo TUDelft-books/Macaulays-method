@@ -4,7 +4,7 @@
 
 |    Extension                                    | Status research              | Status implementation SymPy |
 |-------------------------------------------------|---------------------------------|-----------------------------|
-|     Normal forces                               | 23 June 2023: Completed by Justus                   | -                          |
+|     Normal forces                               | 23 June 2023: Completed by Justus                   | 23 June 2025: Completed by Lucas                         |
 |     Hinges                                      | 23 June 2023: Completed by Justus                  | 24 June 2024: Completed by Mark            |
 |     Spring connections                          | 23 June 2023: Completed by Justus                  | -                           |
 |     Spring supports                             | 23 June 2023: Completed by Justus                  | -                           |
@@ -21,5 +21,6 @@
 |     Virtual work                                |  -              |   -                         |
 |     3D structures                               |  -              |   -                         |
 |     Develop GUI to use Macaulay's method        |  -              |   -                         |
-|     Varying stiffness of elements               | - | - |
+|     Varying stiffness of elements               | 23 June 2025: Completed by Luka | - |
+|     Free body diagram plotter in SymPy          | n.a.            | - |
 |     ... (all ideas are welcome)                 |   |   |

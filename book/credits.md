@@ -16,8 +16,11 @@ We anticipate that the content of this book will change significantly. Therefore
 This book is [CC BY licensed](https://creativecommons.org/licenses/by/4.0/), meaning you are free to share and adapt the material, as long as you give appropriate credit, provide a link to the license and indicate if changes were made.
 
 ## How the book is made
+This website is written in markdown and jupyter notebooks files, which are converted to html using tools from [TeachBooks](https://teachbooks.io/). The files are stored on a [public GitHub repository](https://github.com/TeachBooks/Macaulays_method). The website can be viewed at [https://teachbooks.io/Macaulays_method](https://teachbooks.io/Macaulays_method).
 
-This book is created using open source tools: it is a JupyterBook that is written using Markdown, Jupyter notebooks and Python files to generate some figures. Additional tooling is used from the [TeachBooks initiative](https://teachbooks.io/) to enhance the editing and reading experience. The files are stored on a [public GitHub repository](https://github.com/TeachBooks/Macaulays_method). The website can be viewed at [https://teachbooks.io/Macaulays_method](https://teachbooks.io/Macaulays_method). Contact the authors for additional information.
+To recreate the website you have two options (more information in the [teachbooks manual](https://teachbooks.io/manual/):
+- In the GitHub interface: fork this repository, enable Github Pages from the source GitHub actions (Settings - Code and automation - Pages - Build and deployment - Source - GitHub Actions), enable workflows (Actions - I understand my workflows, go ahead and enable them) and run the call-deploy-book workflow (Actions - call-deploy-book - Run workflow - Run workflow). The website is released on the URL as shown on the workflow summary when the workflow has finished (Actions - call-deploy-book - call-deploy-book - Summary).
+- On your own computer: clone this repository, install the required packages (`pip install -r requirements.txt`) and build the book (`teachbooks build book`). The website is stored locally in `book/_build/index.html`.
 
 (editor)=
 ## About the Editors

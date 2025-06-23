@@ -1,4 +1,4 @@
-# Borek: Building a Symbolic 2D Structural Analysis Tool Using SymPy
+# Borek: 2D Structural Analysis Tool in SymPy
 
 > This report describes the development of a Python based tool for 2D structural analysis in civil engineering, using the SymPy library (Meurer A, 2017) and applying the Macaulay method (Macaulay, 1919) to enable symbolic computation for structural analysis. The tool serves as a proof of concept demonstrating the feasibility of symbolic computation in analyzing internal forces.
 >
