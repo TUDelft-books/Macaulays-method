@@ -41,5 +41,5 @@
 {cite:ts}`lucas_2025`
 
 ## Documenten
-- [Report](./Bachelor's_Thesis_Lucas_Verlaan_5876001.pdf)
+- [TU Delft Education repository](https://resolver.tudelft.nl/uuid:2bdb24ef-d2ed-4dab-a008-ca8835467b10)
 - [GitHub repository](https://github.com/lfverlaan/BEP-Use-Cases), examples also shown in this book.
