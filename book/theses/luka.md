@@ -116,5 +116,5 @@
 {cite:ts}`luka_2025`
 
 ## Documenten
-- [Report](./Macaulay's_methode_met_variabele_stijfheden_LKBoersen_5820626.pdf)
+- [TU Delft education repository](https://resolver.tudelft.nl/uuid:508d92b1-87c9-4247-bb34-65c23a1c4667)
 - [GitHub repository](https://github.com/lBoersen/Methode-van-Macaulay-met-variabele-stijfheden), examples also shown in this book.
