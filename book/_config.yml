@@ -42,6 +42,7 @@ sphinx:
     - sphinx_tudelft_theme
     - sphinx_image_inverter
     - sphinx_named_colors
+    - sphinx_accessibility
 
 teachbooks:
   attribution_location: margin # (defaults to `top`)

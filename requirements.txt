@@ -4,6 +4,7 @@ sphinx-tudelft-theme
 jupyterbook_patches
 sphinx-image-inverter
 sphinx-named-colors
+sphinx_accessibility
 
 # Now list the packages you want to download directly from GitHub
 git+https://github.com/TeachBooks/Sphinx-Thebe
