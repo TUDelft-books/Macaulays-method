@@ -79,6 +79,22 @@ parts:
       - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_1.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_2.ipynb
       - external: https://github.com/Tom-van-Woudenberg/BEP-Use-Cases/blob/main/Use_Case_3.ipynb
+    - file: theses/sai
+      sections:
+      - file: theses/sai/test_frame_problem_1.ipynb
+      - file: theses/sai/test_frame_problem_2.ipynb
+      - file: theses/sai/test_frame_problem_3.ipynb
+      - file: theses/sai/test_frame_problem_4.ipynb
+      - file: theses/sai/test_frame_problem_5.ipynb
+      - file: theses/sai/test_frame_problem_6.ipynb
+      - file: theses/sai/test_frame_problem_7.ipynb
+      - file: theses/sai/test_frame_problem_8.ipynb
+      - file: theses/sai/test_frame_problem_9.ipynb
+      - file: theses/sai/test_frame_problem_10.ipynb
+      - file: theses/sai/test_frame_problem_11.ipynb
+      - file: theses/sai/test_frame_problem_12.ipynb
+      - file: theses/sai/test_frame_problem_13.ipynb
+      - file: theses/sai/test_frame_problem_14.ipynb
   - caption: Appendices
     chapters:
     - file: references.md
