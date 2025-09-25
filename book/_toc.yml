@@ -10,7 +10,7 @@ parts:
     - file: current_extensions
       title: Current extensions (in Dutch)
     - file: GSoC.md
-  - caption: Student theses (in Dutch)
+  - caption: Student theses (partly Dutch, partly English)
     chapters:
     - file: theses/justus.md
       sections:

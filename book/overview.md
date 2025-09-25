@@ -4,11 +4,11 @@
 
 |    Extension                                    | Status research              | Status implementation SymPy |
 |-------------------------------------------------|---------------------------------|-----------------------------|
-|     Normal forces                               | 23 June 2023: Completed by Justus                   | 23 June 2025: Completed by Lucas                         |
+|     Normal forces                               | 23 June 2023: Completed by Justus                   | 23 June 2025: Completed by Lucas, August 2025: improved by Sai                |
 |     Hinges                                      | 23 June 2023: Completed by Justus                  | 24 June 2024: Completed by Mark            |
 |     Spring connections                          | 23 June 2023: Completed by Justus                  | -                           |
 |     Spring supports                             | 23 June 2023: Completed by Justus                  | -                           |
-|     2D kinked structures in discrete definition | 23 June 2023, 24 June 2024 : Completed by Justus and alternative by Alex                |   29-10-2024: Completed by Borek        |
+|     2D kinked structures in discrete definition | 23 June 2023, 24 June 2024 : Completed by Justus and alternative by Alex                |   29-10-2024: Completed by Borek, August 2025: improved by Sai       |
 |     Influence line for 1D structures            | 31 October 2023: Completed by Julia                  | 24 June 2024: Completed by Mark |
 |     Influence line for 2D structures            | 31 October 2023: Completed by Julia                   | 24 June 2024: Completed by Mark |
 |     (Curved) 1D structures with continuous parts with load in global coordinate system          |  17 December 2023: Completed by Ezzat |  -                          |  
@@ -22,5 +22,5 @@
 |     3D structures                               |  -              |   -                         |
 |     Develop GUI to use Macaulay's method        |  -              |   -                         |
 |     Varying stiffness of elements               | 23 June 2025: Completed by Luka | - |
-|     Free body diagram plotter in SymPy          | n.a.            | - |
+|     Free body diagram plotter in SymPy          | n.a.            | August 2025: started by Sai |
 |     ... (all ideas are welcome)                 |   |   |
