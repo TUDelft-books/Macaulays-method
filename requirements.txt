@@ -8,5 +8,3 @@ sphinx_accessibility
 
 # Now list the packages you want to download directly from GitHub
 git+https://github.com/TeachBooks/Sphinx-Thebe
-
-docutils==0.17.1
