@@ -30,19 +30,11 @@ sphinx:
       launch_buttons:
           thebe: true
     html_last_updated_fmt: '%B %-d, %Y'
-    bibtex_default_style: myapastyle
-    bibtex_reference_style: author_year_round
     named_colors_custom_colors: {'attributiongrey':[150,150,150]}
-  local_extensions:
-    apastyle: _ext/
-    bracket_citation_style: _ext/
-  extra_extensions:
-    - sphinx.ext.imgconverter
-    - jupyterbook_patches
+  extra_extensions:                                  # Gives you a starter package of extensions to use in your book
+    - teachbooks_favourites
     - sphinx_tudelft_theme
-    - sphinx_image_inverter
-    - sphinx_named_colors
-    - sphinx_accessibility
+    - sphinx_apa_references
 
 teachbooks:
   attribution_location: margin # (defaults to `top`)

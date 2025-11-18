@@ -1,10 +1,7 @@
 # first list the packages you wish to download from PyPI
 teachbooks # depends on jupyter-book
 sphinx-tudelft-theme
-jupyterbook_patches
-sphinx-image-inverter
-sphinx-named-colors
-sphinx_accessibility
 
-# Now list the packages you want to download directly from GitHub
-git+https://github.com/TeachBooks/Sphinx-Thebe
+git+https://github.com/TeachBooks/TeachBooks-Favourites
+
+sphinx_apa_references
