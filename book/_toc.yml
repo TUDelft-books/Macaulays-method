@@ -97,8 +97,8 @@ parts:
       - file: theses/sai/test_frame_problem_14.ipynb
     - file: theses/chris
       sections:
-      - external: https://github.com/ChrisvanZwol/Macaulay2D/blob/main/cirkelboog%20puntlast.ipynb
-      - external: https://github.com/ChrisvanZwol/Macaulay2D/blob/main/cirkelboog%20qlast.ipynb
+      - file: theses/chris/cirkelboog_puntlast.ipynb
+      - file: theses/chris/cirkelboog_qlast.ipynb
   - caption: Appendices
     chapters:
     - file: references.md
