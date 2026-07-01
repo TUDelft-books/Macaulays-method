@@ -99,6 +99,16 @@ parts:
       sections:
       - file: theses/chris/cirkelboog_puntlast.ipynb
       - file: theses/chris/cirkelboog_qlast.ipynb
+    - file: theses/tinus.md
+      sections:
+      - file: theses/tinus/Vb_Rotatieveer_midden_oplegging.ipynb
+      - file: theses/tinus/VB_Rotatieveer_Midden.ipynb
+      - file: theses/tinus/VB_Rotatieveer_uiteinde.ipynb
+      - file: theses/tinus/VB_veerinbalk_midden_oplegging.ipynb
+      - file: theses/tinus/Vb_veerinbalk_midden.ipynb
+      - file: theses/tinus/Verendeoplinmidden.ipynb
+      - file: theses/tinus/Voorbeeld_vastehoekverdraaiing.ipynb
+      - file: theses/tinus/Voorbeeld_vasteverplaatsing.ipynb
   - caption: Appendices
     chapters:
     - file: references.md
